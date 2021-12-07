@@ -156,4 +156,5 @@
 3. 성과
 > ![image](https://github.com/jungsungmoon/nongsan/blob/main/pic/123123.png)
 > [데이콘 농산물 가격 예측 AI 경진대회](https://dacon.io/competitions/official/235801/overview/description)
-> - 해당 대회에서 5위의 성적으로 
+> - 해당 대회에서 5위의 성적으로 입상
+> 
